@@ -1,0 +1,14 @@
+{
+    "name": "acer/login-messenger",
+    "description": "login system with 2FA",
+    "authors": [
+        {
+            "name": "Tanvir"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpgangsta/googleauthenticator": "dev-master",
+        "phpmailer/phpmailer": "dev-master"
+    }
+}

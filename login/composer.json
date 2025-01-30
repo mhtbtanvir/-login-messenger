@@ -1,0 +1,16 @@
+{
+    "name": "acer/login",
+    "autoload": {
+        "psr-4": {
+            "Acer\\Login\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tanvir Mahtab"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
